@@ -7931,11 +7931,6 @@ vnopts@1.0.2:
     leven "^2.1.0"
     tslib "^1.9.3"
 
-chart.js@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/chart.js/-/chart.js-2.7.3.tgz#cdb61618830bf216dc887e2f7b1b3c228b73c57e"
-  integrity sha512-3+7k/DbR92m6BsMUYP6M0dMsMVZpMnwkUyNSAbqolHKsbIzH2Q4LWVEHHYq7v0fmEV8whXE0DrjANulw9j2K5g==
-
 vscode-uri@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/vscode-uri/-/vscode-uri-2.1.1.tgz#5aa1803391b6ebdd17d047f51365cf62c38f6e90"
